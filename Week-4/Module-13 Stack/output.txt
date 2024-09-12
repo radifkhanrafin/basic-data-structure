@@ -1,0 +1,10 @@
+value 50
+size 5
+value 40
+size 4
+value 30
+size 3
+value 20
+size 2
+value 10
+size 1

@@ -1,0 +1,2 @@
+User Input : a = 10, b = 16
+After swap Value :a = 16, b = 10
